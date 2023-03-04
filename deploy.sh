@@ -8,4 +8,6 @@
 #deploy in the dev env
 deployment4
 >>>>>>> dev
-deploy to staging environment
+deploy to staging environmen
+echo good job
+tested and trustedt
